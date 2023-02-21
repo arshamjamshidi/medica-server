@@ -1,0 +1,158 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "slug": "erik-goodman",
+      "name": "Erik Goodman",
+      "expertise": "PEDIATRICIAN",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nibh ex. Fusce congue augue posuere justo condimentum, in tempus neque tincidunt. Ut eleifend dolor sed leo feugiat pharetra. Nunc erat mauris, faucibus ac magna vel, tincidunt elementum est. Nulla et condimentum odio.",
+      "image": "/images/doctors/Erik Goodman"
+    },
+    {
+      "id": 2,
+      "slug": "cathy-spencer",
+      "name": "Cathy Spencer",
+      "expertise": "CARDIOLOGIST",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nibh ex. Fusce congue augue posuere justo condimentum, in tempus neque tincidunt. Ut eleifend dolor sed leo feugiat pharetra. Nunc erat mauris, faucibus ac magna vel, tincidunt elementum est. Nulla et condimentum odio.",
+      "image": "/images/doctors/Cathy Spencer"
+    },
+    {
+      "id": 3,
+      "slug": "derek-evans",
+      "name": "Derek Evans",
+      "expertise": "GASTROENTEROLOGIST",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nibh ex. Fusce congue augue posuere justo condimentum, in tempus neque tincidunt. Ut eleifend dolor sed leo feugiat pharetra. Nunc erat mauris, faucibus ac magna vel, tincidunt elementum est. Nulla et condimentum odio.",
+      "image": "/images/doctors/Derek Evans"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "slug": "pediatricians",
+      "type": "Pediatricians",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/services/Pediatricians"
+    },
+    {
+      "id": 2,
+      "slug": "plastic-surgeons",
+      "type": "Plastic Surgeons",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/services/Plastic Surgeons"
+    },
+    {
+      "id": 3,
+      "slug": "ophthalmologists",
+      "type": "Ophthalmologists",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/services/Ophthalmologists"
+    },
+    {
+      "id": 4,
+      "slug": "orthopedic",
+      "type": "Orthopedic",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/services/Orthopedic"
+    },
+    {
+      "id": 5,
+      "slug": "gastroenterologist",
+      "type": "Gastroenterologist",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/services/Gastroenterologist"
+    },
+    {
+      "id": 6,
+      "slug": "cardiology",
+      "type": "Cardiology",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt appet fermentum amet sit.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/services/Cardiology"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "slug": "sharing-data-for-the-benefit-of-children-with-cancer",
+      "name": "Sharing data for the benefit of children with cancer",
+      "writer": "Erik Goodman",
+      "publication": "September 1, 2022",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt egestas.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/blog/Sharing data for the benefit of children with cancer"
+    },
+    {
+      "id": 2,
+      "slug": "an-Endoscopic-minimal-scarring-method-developed",
+      "name": "An Endoscopic, Minimal Scarring Method Developed",
+      "writer": "Derek Evans",
+      "publication": "November 18, 2021",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt egestas.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/blog/An Endoscopic, Minimal Scarring Method Developed"
+    },
+    {
+      "id": 3,
+      "slug": "when-a-cancer-diagnosis-predicts-future-good-health",
+      "name": "When a cancer diagnosis predicts future good health",
+      "writer": "Erik Goodman",
+      "publication": "February 24, 2022",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non mauris nulla tincidunt egestas.",
+      "description": [
+        "In fuga doloremque molestiae omnis repudiandae sint minus perferendis sit. Dolore qui rerum. A accusantium placeat quo est veniam consequatur sit adipisci. Itaque incidunt perspiciatis consequuntur incidunt cupiditate amet ipsam. Tempore quos aliquam dolorem officia aliquid minima iusto dolores ex.",
+        "Deleniti blanditiis voluptatibus adipisci a laborum commodi illum voluptatem. Et quod quaerat error. Soluta molestiae veritatis. Incidunt laborum eligendi ut.",
+        "Voluptatem repudiandae recusandae eveniet facere et. Repellat molestiae optio est ex. Aut omnis mollitia est aperiam debitis. Magnam soluta a aut.",
+        "Qui quo tempora quaerat. Et temporibus deserunt id consequatur. Totam eius nostrum est omnis explicabo laudantium. Corrupti qui impedit nihil quasi omnis eveniet quidem veniam. Fugiat voluptatem dolores aut consequatur impedit officia veritatis. Voluptatem tenetur sunt est qui et."
+      ],
+      "image": "/images/blog/When a cancer diagnosis predicts future good health"
+    }
+  ]
+}
